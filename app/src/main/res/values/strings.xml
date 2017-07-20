@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="country_prompt">Choose a country</string>
+
+    <!-- added category item in string array that used by spinner and oncreateoption method-->
+
+        <string-array name="country_arrays">
+            <item>Finance</item>
+            <item>School</item>
+            <item>Work</item>
+            <item>Study</item>
+        </string-array>
+
+    <string-array name="category_arrays">
+        <item>All</item>
+        <item>Finance</item>
+        <item>School</item>
+        <item>Work</item>
+        <item>Study</item>
+    </string-array>
+</resources>
